@@ -46,7 +46,6 @@ Exercício aplicado em sala de aula na **UNA**, faculdade do grupo **Ânima Educ
 Outros repositórios de aula com o mesmo tema:
 
 - [AppPassarDadosEntreActivitiesJava](https://github.com/fabcurvello/AppPassarDadosEntreActivitiesJava)
-- [AppPassarDadosEntreActivitiesAnima](https://github.com/fabcurvello/AppPassarDadosEntreActivitiesAnima)
 - [AppPassarDadosEntreActivities](https://github.com/fabcurvello/AppPassarDadosEntreActivities)
 
 ## Autor
